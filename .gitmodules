@@ -1,3 +1,4 @@
-[submodule "src/main/java/frc/test-teamlib"]
-	path = src/main/java/frc/test-teamlib
-	url = https://github.com/rylanmoseley/test-teamlib.git
+[submodule "src/main/java/frc/example_teamlib"]
+	path = src/main/java/frc/example_teamlib
+	url = https://github.com/rylanmoseley/example_teamlib
+	branch = main
